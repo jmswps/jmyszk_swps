@@ -1,0 +1,15 @@
+C:\Users\Student\Desktop\jmyszk_swps\jmyszk_swps\bin\Debug\net7.0\jmyszk_swps.exe
+C:\Users\Student\Desktop\jmyszk_swps\jmyszk_swps\bin\Debug\net7.0\jmyszk_swps.deps.json
+C:\Users\Student\Desktop\jmyszk_swps\jmyszk_swps\bin\Debug\net7.0\jmyszk_swps.runtimeconfig.json
+C:\Users\Student\Desktop\jmyszk_swps\jmyszk_swps\bin\Debug\net7.0\jmyszk_swps.dll
+C:\Users\Student\Desktop\jmyszk_swps\jmyszk_swps\bin\Debug\net7.0\jmyszk_swps.pdb
+C:\Users\Student\Desktop\jmyszk_swps\jmyszk_swps\obj\Debug\net7.0\jmyszk_swps.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\jmyszk_swps\jmyszk_swps\obj\Debug\net7.0\jmyszk_swps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\jmyszk_swps\jmyszk_swps\obj\Debug\net7.0\jmyszk_swps.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\jmyszk_swps\jmyszk_swps\obj\Debug\net7.0\jmyszk_swps.AssemblyInfo.cs
+C:\Users\Student\Desktop\jmyszk_swps\jmyszk_swps\obj\Debug\net7.0\jmyszk_swps.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\jmyszk_swps\jmyszk_swps\obj\Debug\net7.0\jmyszk_swps.dll
+C:\Users\Student\Desktop\jmyszk_swps\jmyszk_swps\obj\Debug\net7.0\refint\jmyszk_swps.dll
+C:\Users\Student\Desktop\jmyszk_swps\jmyszk_swps\obj\Debug\net7.0\jmyszk_swps.pdb
+C:\Users\Student\Desktop\jmyszk_swps\jmyszk_swps\obj\Debug\net7.0\jmyszk_swps.genruntimeconfig.cache
+C:\Users\Student\Desktop\jmyszk_swps\jmyszk_swps\obj\Debug\net7.0\ref\jmyszk_swps.dll
